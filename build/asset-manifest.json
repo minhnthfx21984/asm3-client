@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f2699e9.chunk.css",
+    "main.js": "/static/js/main.e82fa73f.chunk.js",
+    "main.js.map": "/static/js/main.e82fa73f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f737a667.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f737a667.js.map",
+    "static/js/2.aa2253be.chunk.js": "/static/js/2.aa2253be.chunk.js",
+    "static/js/2.aa2253be.chunk.js.map": "/static/js/2.aa2253be.chunk.js.map",
+    "static/js/3.6b70f1e3.chunk.js": "/static/js/3.6b70f1e3.chunk.js",
+    "static/js/3.6b70f1e3.chunk.js.map": "/static/js/3.6b70f1e3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0f2699e9.chunk.css.map": "/static/css/main.0f2699e9.chunk.css.map",
+    "static/js/2.aa2253be.chunk.js.LICENSE.txt": "/static/js/2.aa2253be.chunk.js.LICENSE.txt",
+    "static/media/Auth.css": "/static/media/banner1.4a22881c.jpg",
+    "static/media/product_1.b24c110a.png": "/static/media/product_1.b24c110a.png",
+    "static/media/product_2.1bc52f89.png": "/static/media/product_2.1bc52f89.png",
+    "static/media/product_3.48eda529.png": "/static/media/product_3.48eda529.png",
+    "static/media/product_4.6d83c600.png": "/static/media/product_4.6d83c600.png",
+    "static/media/product_5.b963def7.png": "/static/media/product_5.b963def7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f737a667.js",
+    "static/js/2.aa2253be.chunk.js",
+    "static/css/main.0f2699e9.chunk.css",
+    "static/js/main.e82fa73f.chunk.js"
+  ]
+}
